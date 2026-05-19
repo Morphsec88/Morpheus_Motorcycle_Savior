@@ -35,7 +35,7 @@ Once the Air-Harpoon bites into the airflow, the physical chain reaction unfolds
 2. **Separation:** The massive kinetic jerk instantly detaches the ejection seat assembly (along with the rider) from the motorcycle frame.
 3. **Deceleration & Lift:** A combined lifting and braking effect takes over. This controlled kinetic management lasts for **approximately one-third (1/3)** of the total deployed altitude distance.
 
-*Project Scope Limit:* The core objective of this system ends here. The system has successfully removed the operator from the bike, cleared the danger zone, and brought them to a safe altitude matched to their initial speed. From this point onward, secondary landing parachutes (which are outside the scope of this specific project) can take over to ensure a safe descent to the ground.
+*Project Scope Limit:** The core objective of this system ends here. The system has successfully removed the operator from the bike, cleared the danger zone, and brought them to a safe altitude matched to their initial speed. From this point onward, secondary landing parachutes (which are outside the scope of this specific project) can take over to ensure a safe descent to the ground.*
 
 ---
 
@@ -50,6 +50,7 @@ The software design strictly prioritizes **rider safety** and explicit environme
 ## 🛠️ Hardware Pin Mapping (Updated Baseline)
 
 
+
 | Peripheral | Arduino PIN | Function |
 | :--- | :---: | :--- |
 | `footTrigger` | **2** | Foot-operated trigger pedal / switch (Rider's intent) |
@@ -61,3 +62,14 @@ The software design strictly prioritizes **rider safety** and explicit environme
 | `pressureWastegate` | **8** | Deployment tube pressure relief valve (PWM) |
 | `internalRopeSignal` | **9** | Signal core cable in rope (Opens the CO2 / Air cartridge) |
 | `breakAwaySensorPin`| **10** | Break-away loop inputs for altitude tracking |
+
+<img width="1334" height="750" alt="MMS" src="https://github.com/user-attachments/assets/6bd8a7b9-daeb-4681-bd6c-61bf08ada909" />
+<img width="4016" height="2681" alt="MMS2" src="https://github.com/user-attachments/assets/78a51998-a8f7-4487-837e-ee876f96b695" />
+
+
+
+---
+
+## 📜 4. Licensing
+
+This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
