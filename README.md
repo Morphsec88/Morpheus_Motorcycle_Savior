@@ -4,6 +4,13 @@
 
 Morpheus_Motorcycle_Savior is an Arduino-based emergency safety system (`motoros_emergency`) designed to lift the rider and their seat completely out of the danger zone during a critical event (such as a speed wobble or crash). It deploys a braking canopy to lift the rider to an optimal, speed-calculated altitude while providing immediate, controlled deceleration.
 
+
+<img width="1280" height="853" alt="02176302-40E6-42DF-AA77-41BE3F0F53B4" src="https://github.com/user-attachments/assets/c2831b9a-5529-42c3-8215-348fd75e74cf" />
+
+
+<img width="1280" height="853" alt="1EED1B0C-A42D-4284-BBE7-6D93D0A2659F" src="https://github.com/user-attachments/assets/61e01ba3-86f3-4ac0-a622-df218267eec0" />
+
+
 ---
 
 ## 🏗️ 1. Computational Statics and Core Principles
@@ -69,8 +76,6 @@ The software design strictly prioritizes **rider safety** and explicit environme
 ---
 
 <img width="1334" height="750" alt="MMS" src="https://github.com/user-attachments/assets/6bd8a7b9-daeb-4681-bd6c-61bf08ada909" />
-<img width="4016" height="2681" alt="MMS2" src="https://github.com/user-attachments/assets/78a51998-a8f7-4487-837e-ee876f96b695" />
-
 
 
 ---
