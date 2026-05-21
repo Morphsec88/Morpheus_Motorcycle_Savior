@@ -5,10 +5,13 @@
 morpheus-motorcyclist-savior is an Arduino-based emergency safety system (`motoros_emergency`) designed to lift the rider and their seat completely out of the danger zone during a critical event (such as a speed wobble or crash). It deploys a braking canopy to lift the rider to an optimal, speed-calculated altitude while providing immediate, controlled deceleration.
 
 
-<img width="1280" height="853" alt="02176302-40E6-42DF-AA77-41BE3F0F53B4" src="https://github.com/user-attachments/assets/c2831b9a-5529-42c3-8215-348fd75e74cf" />
 
 
-<img width="1280" height="853" alt="1EED1B0C-A42D-4284-BBE7-6D93D0A2659F" src="https://github.com/user-attachments/assets/61e01ba3-86f3-4ac0-a622-df218267eec0" />
+
+<img width="1536" height="1024" alt="902FC882-FF6E-4233-A3A7-01AD279A8287 (1)" src="https://github.com/user-attachments/assets/fd0742df-eb60-4088-b036-42649493fb45" />
+
+<img width="1462" height="1076" alt="10A04CB2-1024-4255-8624-A96728258E32" src="https://github.com/user-attachments/assets/38a82976-ff66-418e-a78e-313537273666" />
+
 
 
 ---
