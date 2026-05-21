@@ -2,7 +2,7 @@
 
 > **Automated Emergency Parachute Control & Rider Safety System for Motorcycle Riders**
 
-Morpheus_Motorcycle_Savior is an Arduino-based emergency safety system (`motoros_emergency`) designed to lift the rider and their seat completely out of the danger zone during a critical event (such as a speed wobble or crash). It deploys a braking canopy to lift the rider to an optimal, speed-calculated altitude while providing immediate, controlled deceleration.
+morpheus-motorcyclist-savior is an Arduino-based emergency safety system (`motoros_emergency`) designed to lift the rider and their seat completely out of the danger zone during a critical event (such as a speed wobble or crash). It deploys a braking canopy to lift the rider to an optimal, speed-calculated altitude while providing immediate, controlled deceleration.
 
 
 <img width="1280" height="853" alt="02176302-40E6-42DF-AA77-41BE3F0F53B4" src="https://github.com/user-attachments/assets/c2831b9a-5529-42c3-8215-348fd75e74cf" />
