@@ -1,4 +1,4 @@
-# Morpheus_Motorcycle_Savior 🏍️🪂
+# morpheus-motorcyclist-savior 🏍️🪂
 
 > **Automated Emergency Parachute Control & Rider Safety System for Motorcycle Riders**
 
