@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/6eabb30b-16ba-471a-8871-94f3af6c2db0
 
-# morpheus-motorcyclist-savior 🏍️🪂
+# morpheus-motorcyclist-savior 
 
 > **Automated Emergency Parachute Control & Rider Safety System for Motorcycle Riders**
 
@@ -101,6 +101,6 @@ The software design strictly prioritizes deterministic safety and explicit envir
 
 ---
 
-## 📜 4. Licensing
+##  4. Licensing
 
 This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
