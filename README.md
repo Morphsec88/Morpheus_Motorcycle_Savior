@@ -90,17 +90,4 @@ The software design strictly prioritizes deterministic safety and explicit envir
 | `winchBrake` | 7 | Heavy-duty mechanical brake to lock the spool |
 | `pressureWastegate` | 8 | Deployment tube pressure relief valve (PWM) |
 | `internalRopeSignal` | 9 | Signal core cable in rope (Triggers capsule explosion/opening) |
-| `breakAwaySensorPin` | 10 | Staged pulse encoder input for real-time altitude tracking |
-
-
-
----
-
-<img width="1334" height="750" alt="MMS" src="https://github.com/user-attachments/assets/6bd8a7b9-daeb-4681-bd6c-61bf08ada909" />
-
-
----
-
-##  4. Licensing
-
-This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+| `breakAwaySensorPin` | 10 | Staged pulse encoder input for real-time altitude 
