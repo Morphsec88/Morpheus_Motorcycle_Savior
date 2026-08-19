@@ -1,4 +1,5 @@
 
+This is a theoretical project; we assume no responsibility for its technical implementation or any potential consequences.
 
 https://github.com/user-attachments/assets/6eabb30b-16ba-471a-8871-94f3af6c2db0
 
