@@ -1,3 +1,5 @@
+<img width="750" height="1334" alt="IMG_3311" src="https://github.com/user-attachments/assets/77799d2d-9a5d-49b9-bdad-4038aa3be674" />
+
 
 This is a theoretical project; we assume no responsibility for its technical implementation or any potential consequences.
 
